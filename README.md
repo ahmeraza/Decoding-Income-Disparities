@@ -18,13 +18,6 @@ earners, particularly females, blacks, and other people from underrepresented gr
 The analysis highlights systemic income disparities tied to race and gender, reflecting
 broader societal inequities.
 
-## Installation
-To set up this project locally:
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:yourusername/Decoding-Income-Disparities.git
-```
-
 ## Usage
 
 - Open the notebook updated-colab-notebook.ipynb in Google Colab.
@@ -36,4 +29,11 @@ To set up this project locally:
 The dataset used in this project is sourced from UC Irvine Machine Learning Repository 
 [https://archive.ics.uci.edu/dataset/2/adult]. It includes demographic information, income levels, 
 and other relevant features for analyzing income disparities.
+
+## Installation
+To set up this project locally:
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:yourusername/Decoding-Income-Disparities.git
+```
 
