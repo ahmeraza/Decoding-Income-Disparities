@@ -34,6 +34,6 @@ and other relevant features for analyzing income disparities.
 To set up this project locally:
 1. Clone the repository:
    ```bash
-   git clone git@github.com:yourusername/Decoding-Income-Disparities.git
+   git clone git@github.com:ahmeraza/Decoding-Income-Disparities.git
 ```
 
